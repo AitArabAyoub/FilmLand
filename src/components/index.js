@@ -1,0 +1,9 @@
+export {default as  Actors} from "./Actors/Actors"
+export {default as  Aside} from "./Aside/Aside"
+export {default as Footer} from './Footer/Footer'
+export {default as MovieDetails} from './MovieDetails/MovieDetails'
+export {default as Movies} from './Movies/Movies'
+export {default as NavBar} from './NavBar/NavBar'
+export {default as Profile} from './Profile/Profile'
+export {default as MoviesList} from './MoviesList/MoviesList'
+export {default as Movie} from './Movie/Movie'
